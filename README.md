@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 欢迎！
 
-You can use the [editor on GitHub](https://github.com/wlhcode/wlhcode.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+是的，这就是网站首页。因为伟大祖国外交部发言神器经常触动我国领导人的神经，我特意把它们备份了。除此之外，来查查看我们有些什么吧！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 耿爽模拟器
 
-### Markdown
+按[这里](https://wlhcode.github.io/gengshuang/index.html)就能进入口交部发言人耿爽专属的模拟器哦。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 华春莹模拟器
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wlhcode/wlhcode.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+按[这里](https://wlhcode.github.io/huachunying/index.html)进入华春莹模拟器。虽然功能没耿爽那么多，但也值得试一下哦。
