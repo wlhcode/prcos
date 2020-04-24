@@ -4,8 +4,8 @@
 
 ### 耿爽模拟器
 
-按[这里](https://wlhcode.github.io/prcos/gengshuang/index.html)就能进入口交部发言人耿爽专属的模拟器哦。
+按[这里](https://wlhcode.github.io/prcos/gengshuang/)就能进入口交部发言人耿爽专属的模拟器哦。
 
 ### 华春莹模拟器
 
-按[这里](https://wlhcode.github.io/prcos/huachunying/index.html)进入华春莹模拟器。虽然功能没耿爽那么多，但也值得试一下哦。
+按[这里](https://wlhcode.github.io/prcos/huachunying/)进入华春莹模拟器。虽然功能没耿爽那么多，但也值得试一下哦。
